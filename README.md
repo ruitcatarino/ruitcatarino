@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ruitcatarino
-- 👀 I’m interested in IoT and backend
+- 👀 I’m interested in C, C++, python and IoT
 
 <!---
 ruitcatarino/ruitcatarino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
