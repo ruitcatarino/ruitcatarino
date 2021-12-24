@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ruitcatarino
-- 👀 I’m interested in C, C++, python and IoT
+- 👀 I’m interested in Programing, IoT, Self-Hosting and Linux
 
 <!---
 ruitcatarino/ruitcatarino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
