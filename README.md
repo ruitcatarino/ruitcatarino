@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @ruitcatarino
-- 👀 I’m interested in Computer Vision, Backend Development, Automation, IoT, Self-Hosting and Linux
+I’m interested in Computer Vision, Automation, IoT, Self-Hosting and Unix
 
 <!---
 ruitcatarino/ruitcatarino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
