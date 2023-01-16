@@ -1,4 +1,4 @@
-I’m interested in Computer Vision, Automation, IoT, Self-Hosting and Unix
+Interested in Computer Vision, Automation, IoT, Self-Hosting and Unix
 
 <!---
 ruitcatarino/ruitcatarino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
