@@ -1,6 +1,3 @@
-Interested in Computer Vision, Automation, IoT, Self-Hosting and Unix
+Hi, I'm Rui <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
 
-<!---
-ruitcatarino/ruitcatarino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Interested in Computer Vision, Automation, IoT, Self-Hosting and Unix
