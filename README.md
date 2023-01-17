@@ -5,4 +5,4 @@ Interested in Computer Vision, Automation, IoT, Self-Hosting and Unix
 
 ## Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruitcatarino&layout=compact&theme=dracula)](https://github.com/ruitcatarino?tab=repositories)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruitcatarino&layout=compact&theme=dracula&count_private=true)](https://github.com/ruitcatarino?tab=repositories)
