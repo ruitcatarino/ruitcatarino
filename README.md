@@ -4,4 +4,6 @@ Hi, I'm Rui <img src="https://github.com/ruitcatarino/ruitcatarino/blob/main/Ass
 Interested in Computer Vision, Automation, IoT, Self-Hosting and Unix
 
 ## Stats
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruitcatarino&layout=compact)](https://github.com/ruitcatarino?tab=repositories)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruitcatarino&show_icons=true&theme=dracula)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruitcatarino&layout=compact&theme=dracula)](https://github.com/ruitcatarino?tab=repositories)
