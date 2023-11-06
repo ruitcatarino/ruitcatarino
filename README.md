@@ -11,7 +11,12 @@ A passionate software developer with interests in various fields such as:
 - IoT (Internet of Things)
 - Self-Hosting
 - Unix
-
-## Open-Source Contributions
+<p>
+<details>
+<summary><h3>Open-Source Contributions</h3></summary>
 
 - **[wtwitch](https://github.com/krathalan/wtwitch)**
+
+To be continued ...
+
+</details>
