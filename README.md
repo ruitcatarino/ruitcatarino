@@ -1,5 +1,5 @@
 ## Introduction
-Hi, I'm Rui <img src="https://github.com/ruitcatarino/ruitcatarino/blob/main/Assets/Hi.gif" width="25px">
+Hi, I'm Rui &nbsp; <img src="https://github.com/ruitcatarino/ruitcatarino/blob/main/Assets/Hi.gif" width="25px">
 
 A passionate software developer with interests in various fields such as:
 
@@ -15,6 +15,6 @@ A passionate software developer with interests in various fields such as:
 
 - **[wtwitch](https://github.com/krathalan/wtwitch)**
 
-To be continued ...
+&emsp; _To be continued ..._
 
 </details>
