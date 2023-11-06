@@ -1,6 +1,7 @@
 ## Introduction
 
 Hi, I'm Rui <img src="https://github.com/ruitcatarino/ruitcatarino/blob/main/Assets/Hi.gif" width="20px">
+
 A passionate software developer with interests in various fields such as:
 
 - Backend development
