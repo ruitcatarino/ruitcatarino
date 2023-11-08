@@ -1,10 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Rui Catarino
-====================================================================================================================================
+## Introduction
 
-Backend Engineer
-----------------
+Hey &nbsp; <img src="https://github.com/ruitcatarino/ruitcatarino/blob/main/Assets/Hi.gif" width="30px">
 
-Just a few of my **_passions_** as a Backend Developer are _Computer Vision_, _Automation_, _IoT_ (Internet of Things), _Self-Hosting_, and _Linux_.
+I'm Rui Catarino and a few of my **_passions_** as a Backend Developer are __Computer Vision__, __Automation__, __IoT__ (Internet of Things), __Self-Hosting__, and __Linux__.
 
 ### Skills
 
