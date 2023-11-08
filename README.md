@@ -2,7 +2,7 @@
 
 Hey &nbsp; <img src="https://github.com/ruitcatarino/ruitcatarino/blob/main/Assets/Hi.gif" width="30px">
 
-I'm Rui Catarino and a few of my **_passions_** as a Backend Developer are __Computer Vision__, __Automation__, __IoT__ (Internet of Things), __Self-Hosting__, and __Linux__.
+I'm Rui and a few of my **_passions_** as a Backend Developer are __Computer Vision__, __Automation__, __IoT__ (Internet of Things), __Self-Hosting__, and __Linux__.
 
 ### Skills
 
@@ -45,7 +45,6 @@ I'm Rui Catarino and a few of my **_passions_** as a Backend Developer are __Com
 <details>
 <summary><h3>Open-Source Contributions</h3></summary>
 <div width="100%" align="center"><a href="https://github.com/krathalan/wtwitch/commits?author=ruitcatarino" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=krathalan&repo=wtwitch&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-&emsp; _To be continued ..._
 </div><br /><br /><br /><br /><br /><br /><br />
 </details>
 
