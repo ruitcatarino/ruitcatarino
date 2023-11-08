@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Engineer
 ----------------
 
-Just a few of my passions as a Backend Developer are Computer Vision, Automation, IoT (Internet of Things), Self-Hosting, and Linux.
+Just a few of my **_passions_** as a Backend Developer are _Computer Vision_, _Automation_, _IoT_ (Internet of Things), _Self-Hosting_, and _Linux_.
 
 ### Skills
 
