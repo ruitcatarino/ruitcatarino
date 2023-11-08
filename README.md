@@ -6,7 +6,7 @@ Backend Engineer
 
 Just a few of my passions as a backend engineer are Computer Vision, Automation, IoT (Internet of Things), Self-Hosting, and Linux.
 
-### Skills (Sorted in alphabetical order)
+### Skills
 
 <p align="left">
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
