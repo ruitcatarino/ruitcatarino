@@ -44,7 +44,7 @@ I'm Rui and a few of my **_passions_** as a Backend Developer are __Computer Vis
 
 <details>
 <summary><h3>Open-Source Contributions</h3></summary>
-<div width="100%" align="center"><a href="https://github.com/krathalan/wtwitch/commits?author=ruitcatarino" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=krathalan&repo=wtwitch&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<div width="100%" align="center"><a href="https://github.com/krathalan/wtwitch" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=krathalan&repo=wtwitch&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div><br /><br /><br /><br /><br /><br /><br />
 </details>
 
