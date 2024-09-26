@@ -1,8 +1,8 @@
 ## Introduction
 
-Hey &nbsp; <img src="https://github.com/ruitcatarino/ruitcatarino/blob/main/Assets/Hi.gif" width="30px">
+Hey &nbsp;
 
-I'm Rui and a few of my **_passions_** as a **_Backend Developer_** are __Computer Vision__, __Automation__, __IoT__ (Internet of Things), __Self-Hosting__, and __Linux__.
+I'm Rui, a Software Engineer specializing in Backend Development. I'm interest in Computer Vision, Automation, IoT, Self-Hosting, Linux and much more.
 
 ### Skills
 
