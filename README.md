@@ -2,7 +2,7 @@
 
 Hey &nbsp;
 
-I'm Rui, a Software Engineer specializing in Backend Development.
+I'm Rui, a Software Engineer specializing in Backend Development and a Python enthusiast.
 
 I'm interest in Computer Vision, Automation, IoT, Self-Hosting, Linux, and much more.
 
