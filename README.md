@@ -10,7 +10,7 @@
   <tbody>
    <tr>
       <td><a href="https://github.com/tortoise/tortoise-orm"><b>Tortoise ORM</b></a></td>
-      <td>Implemented the methods `latest()`, `earliest()` and `last()`.</td>
+      <td>Implemented the methods latest(), earliest() and last().</td>
     </tr>
     <tr>
       <td><a href="https://github.com/krathalan/wtwitch"><b>wtwitch</b></a></td>
