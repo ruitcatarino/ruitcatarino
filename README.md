@@ -1,16 +1,20 @@
-## Hi there 👋
-
-<!--
-**ruitcatarino/ruitcatarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there I'm Rui 👋
+<h3>Contributions</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Project</b></td>
+      <td><b>Contribution</b></td>
+    </tr>
+  </thead>
+  <tbody>
+   <tr>
+      <td><a href="https://github.com/tortoise/tortoise-orm"><b>Tortoise ORM</b></a></td>
+      <td>Implemented the methods `latest()`, `earliest()` and `last()`.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/krathalan/wtwitch"><b>wtwitch</b></a></td>
+      <td>Move the writing of the twitch API token to a different file.</td>
+    </tr>
+  </tbody>
+</table>
